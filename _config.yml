@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://sangyounglee.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'SangYeong Lee Github IO'
+description: '기술 블로그'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 timezone: 'Asia/Seoul'
@@ -41,7 +41,7 @@ navigation_header:
 - title: About
   url: /about/
 - title: Portfolio
-  url: /portfolio
+  url: /portfolio/
 - title: Blog
   url: /blog/
 
